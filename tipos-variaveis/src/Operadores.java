@@ -1,25 +1,16 @@
 public class Operadores {
-    // Nesse momento vimos a concatenação de tipos inteiros e texto.
-    public static void main(String[] args) {
-        String nomeCompleto = "LIGUAGEM" + "JAVA";
-        System.out.println();
+        public static void main(String[] args) {
+         boolean condicao1=true;
+         boolean condicao2=false;
 
-        String concatenacao = "?";
-        
-        concatenacao = 1+1+1+"1";
-        
-        System.out.println(concatenacao);
+         if (condicao1 && (7 > 4)) {
+                System.out.println("As duas condições são verdadeiras");
+         }
 
-        concatenacao = 1+"1"+1+1;
+         if (condicao1 || condicao2) {
+            System.out.println("Uma das condições é verdadeira");
+     }
 
-        System.out.println(concatenacao);
-
-        concatenacao = 1+"1"+1+"1";
-
-        System.out.println(concatenacao);
-
-        concatenacao = "1"+(1+1+1);
-
-        System.out.println(concatenacao);
+         System.out.println("fim");
     }
 }
