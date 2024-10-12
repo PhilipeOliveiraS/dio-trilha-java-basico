@@ -10,7 +10,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![DIO](https://img.shields.io/badge/DIO-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAA5klEQVR4AbXBsU4CURQA4AcTBWlCooJmAmiaSdoBZGoJlFZn/AGSCVoMYmAVl7WkQGKbYmyAWkkpTkHb5z7Ndns5k2Pu/He96h+fURzEDTzAK8tZG6OVgmEcU1wGaAbhVOi2pm4A9Rls0joM1oG3G3HgJcAR21y56g8QyxpxD8ue+XotKjDe9SyeLQCDg3GNgSbxy5A0E4uK4hx4A9GbH3lbAJRBHNE2TwLG0kIR6YMoHGxgfQZ5ERZ32nV9gEWwFgkIWiH9YAAAAASUVORK5CYII=)
 
-![Project Banner](https://source.unsplash.com/random/800x200?coding)
 
 ## Descrição
 
@@ -103,31 +102,31 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para 
 ---
 
 ## Github Stats
-![PH3-Digital](https://github-readme-stats.vercel.app/api?username=ph3-digital&show_icons=true&bg_color=0D1117&border_color=30A3DC&icon_color=30A3DC&title_color=0056B3&text_color=FFF)
+![PhilipeOliveiraS](https://github-readme-stats.vercel.app/api?username=PhilipeOliveiraS&show_icons=true&bg_color=0D1117&border_color=30A3DC&icon_color=30A3DC&title_color=0056B3&text_color=FFF)
 
 ---
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ph3-digital&repo=dio-trilha-java-basico&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0056B3&text_color=FFF)](https://github.com/ph3-digital)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PhilipeOliveiraS&repo=dio-trilha-java-basico&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0056B3&text_color=FFF)](https://github.com/PhilipeOliveiraS)
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PH3-Digital&layout=compact&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0056B3&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipeOliveiraS&layout=compact&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0056B3&text_color=FFF)
 
 ---
 
 ## 📈 Estatísticas do Repositório
 
-![Repo Size](https://img.shields.io/github/repo-size/PH3-Digital/dio-trilha-java-basico?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/PH3-Digital/dio-trilha-java-basico?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/PH3-Digital/dio-trilha-java-basico?style=social?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/PH3-Digital/dio-trilha-java-basico?style=social?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/PhilipeOliveiraS/dio-trilha-java-basico?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/PhilipeOliveiraS/dio-trilha-java-basico?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/PhilipeOliveiraS/dio-trilha-java-basico?style=social?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/PhilipeOliveiraS/dio-trilha-java-basico?style=social?style=for-the-badge)
 
 ---
 
 ### Estatísticas do Projeto
 
 
-![Commit Activity](https://img.shields.io/github/commit-activity/y/PH3-Digital/dio-trilha-java-basico?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/PH3-Digital/dio-trilha-java-basico?style=for-the-badge)
+![Commit Activity](https://img.shields.io/github/commit-activity/y/PhilipeOliveiraS/dio-trilha-java-basico?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/PhilipeOliveiraS/dio-trilha-java-basico?style=for-the-badge)
 ---
 
 
@@ -145,4 +144,4 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para 
 ![Animation](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 ---
 
-Este projeto é mantido por [PH3-Digital](https://github.com/PH3-Digital). Contribuições são bem-vindas!
+Este projeto é mantido por [PhilipeOliveiraS](https://github.com/PhilipeOliveiraS). Contribuições são bem-vindas!
